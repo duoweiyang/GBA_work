@@ -1,0 +1,9 @@
+CS 2261: Lab03
+
+This is the GBA and colored-version of pong. 
+
+The blue rectangle (left) is controlled with the A and B buttons (X and Z on the keyboard respectively). A moves this paddle up while B moves the paddle down.
+
+The cyan rectangle (right) is controlled with the up and down arrow keys.
+
+The game ends when the ball hits the bounds beyond the paddles. They will bounce off the top and bottom bounds, however.

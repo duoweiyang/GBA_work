@@ -1,0 +1,7 @@
+CS 2261: HW03
+
+This is a varied variation of breakout. Instead of the same tidy rows each time you play, it’s a random cluster. Press enter to start the game and enter during the game to pause.
+
+The green paddle is controlled with the left and right arrow keys. Move it around to hit the red ball. 
+
+The game ends when the ball hits the bound under the paddle.

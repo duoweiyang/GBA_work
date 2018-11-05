@@ -1,0 +1,27 @@
+CS 2261: HW05
+
+EAT THE FLIES!
+
+This is a Mode 4 game where you control a frog and make him eat all the flies on the screen. Press enter to start the game and enter during the game to pause.
+
+Use the left, right, up, and down arrow keys to move the frog around. Flies will be consumed if the frog is in contact with it.
+
+Avoid colliding with the trash (red rectangles). If the frog eats it, he’ll lose a life.
+If you lose all 3 lives, you lose.
+
+You win when you’ve eaten all the flies.
+
+
+
+
+
+
+
+
+
+
+
+
+
+P.S. Armando, I’m really sorry about the poor quality of this. I was completely
+swamped last week. I promise to do way better next time. 
